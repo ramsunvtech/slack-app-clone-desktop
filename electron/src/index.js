@@ -15,7 +15,8 @@ const createWindow = () => {
   });
 
   // and load the index.html of the app.
-  mainWindow.loadFile(path.join(__dirname, 'app/react/index.html'));
+  // mainWindow.loadFile(path.join(__dirname, 'app/react/index.html'));
+  mainWindow.loadURL('https://web-slate.github.io/slack-app-clone-web/react/');
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools();
