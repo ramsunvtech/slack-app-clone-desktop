@@ -14,3 +14,6 @@ slack-app-clone-desktop git:(main) ✗ npx create-electron-app slack
 ```
 
 ## Setup Git Submodule
+
+## Run Electron Desktop App
+
